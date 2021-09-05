@@ -9,6 +9,7 @@ Here is a growing collection of resources and helpful commands to know when work
 - [git add](./Commands/Add.md)
 - [git commit](./Commands/Commit.md)
 - [git remote](./Commands/Remote.md)
+- [git Push](./Commands/Push.md)
 
 
 ## Resources 
@@ -18,6 +19,7 @@ Here is a growing collection of resources and helpful commands to know when work
 - [Git Commit Documentation](https://git-scm.com/docs/git-commit)
 - [Git Remote Documentation](https://git-scm.com/docs/git-remote)
 - [Git Remote Documentation](https://git-scm.com/docs/git-remote)
+- [Git Push Documentation](https://git-scm.com/docs/git-push)
 ---
 
 [Back to Home](../README.md)
