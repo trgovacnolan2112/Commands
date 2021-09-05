@@ -17,6 +17,7 @@ Here is a growing collection of resources and helpful commands to know when work
 - [Git Config Documentation](https://git-scm.com/docs/git-config)
 - [Git Commit Documentation](https://git-scm.com/docs/git-commit)
 - [Git Remote Documentation](https://git-scm.com/docs/git-remote)
+- [Git Remote Documentation](https://git-scm.com/docs/git-remote)
 ---
 
 [Back to Home](../README.md)
